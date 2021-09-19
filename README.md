@@ -1,6 +1,6 @@
 ### Hi, Welcome 👋🏽
 
-I'm a computer engineering student and currently studying to become a front-end developer.
+I'm a computer engineering student and currently learning HTML, CSS and JavaScript.
 
 ##
 <div>
